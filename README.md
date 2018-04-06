@@ -1,5 +1,4 @@
 ## [](#header-2)Semi Supervised Learning Using Sparse Autoencoder
-[Link to Github Repo](https://github.com/jadhavhninad/Sparse_autoencoder).
 
 ### [](#header-3) Goals:
 *   To implement a sparse autoencoder for MNIST dataset. Plot a mosaic of the first 100 rows for the weight matrices W1 for different sparsities p = [0.01, 0.1, 0.5, 0.8] . 
