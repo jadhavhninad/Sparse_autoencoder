@@ -15,15 +15,15 @@
 
 *   The model is developed using TensorFlow. The weight matrix mosiac for a given sparsity value is as follows
 
-[[https://github.com/jadhavhninad/Sparse_autoencoder/blob/master/img/W1_0.1.png|alt=Weight matrix mosiac]]
+![Weight matrix mosiac](https://github.com/jadhavhninad/Sparse_autoencoder/blob/master/img/W1_0.1.png)
 
 *   Original image
 
-[[https://github.com/jadhavhninad/Sparse_autoencoder/blob/master/img/X_0.1.png|alt=original image]]
+![original image](https://github.com/jadhavhninad/Sparse_autoencoder/blob/master/img/X_0.1.png)
 
 *   The regenerated image :
 
-[[https://github.com/jadhavhninad/Sparse_autoencoder/blob/master/img/X_hat_0.1.png|alt=Regenerated image]]
+![Regenerated image](https://github.com/jadhavhninad/Sparse_autoencoder/blob/master/img/X_hat_0.1.png)
 
 *   For semi supervised learning the same tensorflow model was used for initial training. Subsequent implementation of generiac neural network model and training of encoder-softmax & fine-tuning of input-encoder-softmax model was done using keras.
 
