@@ -10,7 +10,7 @@
 ### [](#header-3) Implementation:
 *   The the architecture and cost function is as follows
 
-[[https://github.com/jadhavhninad/Sparse_autoencoder/blob/master/img/sparseautoencoder_architecture.png|alt=sparse encoder model]]
+![sparse encoder model](https://github.com/jadhavhninad/Sparse_autoencoder/blob/master/img/sparseautoencoder_architecture.png)
 
 
 *   The model is developed using TensorFlow. The weight matrix mosiac for a given sparsity value is as follows
