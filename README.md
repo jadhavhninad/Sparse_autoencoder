@@ -34,6 +34,6 @@
 
 ### [](#header-4) Code Description:
 
-sparseae_generic.py - Visualize the layer 1 weights for sparse autoencoder
-sparseae_semiSupervisedLearning.py - Comparison between a Neural network trained using randomly initialized weights Vs using final weights from autoencoder
+*   sparseae_generic.py - Visualize the layer 1 weights for sparse autoencoder
+*   sparseae_semiSupervisedLearning.py - Comparison between a Neural network trained using randomly initialized weights Vs using final weights from autoencoder
 
